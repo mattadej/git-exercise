@@ -7,5 +7,7 @@ This repository contains this readme file and two scripts; one a shell script, c
 ## Task
 Fork this repository to your own github account, and create two new branches, a unix branch and a windows branch. On the unix branch, remove the batch file so only the shell script is present, and on the windows branch remove the shell script, leaving only the batch file. Push both branches to github. On the main branch, remove both scripts and update the readme to reflect the scripts' new locations.
 
-##Location
+## Location
 script.sh is now in the unix branch, while script.bat is now in the windows branch.
+[unix] https://github.com/mattadej/git-exercise/tree/unix
+[windows] https://github.com/mattadej/git-exercise/tree/windows
