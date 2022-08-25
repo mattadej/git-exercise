@@ -9,5 +9,6 @@ Fork this repository to your own github account, and create two new branches, a 
 
 ## Location
 script.sh is now in the unix branch, while script.bat is now in the windows branch.
-[unix] https://github.com/mattadej/git-exercise/tree/unix
-[windows] https://github.com/mattadej/git-exercise/tree/windows
+
+[unix]https://github.com/mattadej/git-exercise/tree/unix
+[windows]https://github.com/mattadej/git-exercise/tree/windows
